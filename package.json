@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marianmeres/mm-ts-utils.git"
+    "url": "git+https://github.com/Born-Digital-AI/mm-ts-utils.git"
   },
   "author": "Marian Meres <marian@meres.sk>",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/marianmeres/mm-ts-utils/issues"
+    "url": "https://github.com/Born-Digital-AI/mm-ts-utils/issues"
   },
-  "homepage": "https://github.com/marianmeres/mm-ts-utils#readme",
+  "homepage": "https://github.com/Born-Digital-AI/mm-ts-utils#readme",
   "dependencies": {
     "lodash": "^4.17.15"
   },
